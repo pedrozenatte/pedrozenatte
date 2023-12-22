@@ -9,6 +9,7 @@
  </div>
 <br>
 
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedrozenatte&show_icons=true&count_private=true&hide_border=true&title_color=0000FF&icon_color=0000FF&text_color=c9d1d9&bg_color=A49AFD" alt="Pedro Zenatte github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrozenatte&layout=compact&hide_border=true&title_color=0000FF&text_color=0000FF&bg_color=A49AFD" />
