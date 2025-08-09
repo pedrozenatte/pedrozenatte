@@ -6,7 +6,10 @@
 
 **`Estudante de Engenharia de Computação`**
 
-Olá! Meu nome é Pedro Guilherme de Barros Zenatte, tenho 23 anos e sou natural de São Carlos (SP). Concluí o ensino médio na ETEC e possuo formação técnica em Analista de Suporte Técnico. Atualmente, curso Engenharia de Computação na USP, campus de São Carlos.
+Olá! Meu nome é Pedro Guilherme de Barros Zenatte, tenho 23 anos e sou natural de São Carlos (SP). Concluí o ensino médio na ETEC e possuo formação técnica em Analista de Suporte Técnico. Atualmente, curso Engenharia de Computação na USP, campus de São Carlos. 
+Tenho interesse nas áreas de computação de alto desempenho, ciência e base de dados, desenvolvimento Web e Mobile, automações e, de forma complementar, em robótica aplicada a veículos aéreos. Busco oportunidades de estágio para aplicar meus conhecimentos em projetos reais, contribuir com equipes multidisciplinares e aprimorar minhas habilidades como pessoa e como engenheiro de computação.
+
+
 
 <div align="center"> 
 <a href="https://www.instagram.com/pedrozenatte/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
