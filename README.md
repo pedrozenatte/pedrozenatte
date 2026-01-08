@@ -88,13 +88,26 @@ Tenho interesse nas áreas de computação de alto desempenho, ciência e base d
 
 ### 📊 Estatísticas
 
-### 📊 Estatísticas
+<div align="center">
+  <img
+    height="200"
+    referrerpolicy="no-referrer"
+    src="https://github-readme-stats.vercel.app/api?username=pedrozenatte&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=86400"
+  />
+  <img
+    height="200"
+    referrerpolicy="no-referrer"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrozenatte&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"
+  />
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrozenatte&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=86400)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrozenatte&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=pedrozenatte&theme=tokyonight&mode=weekly)
+<div align="center">
+  <img
+    height="200"
+    referrerpolicy="no-referrer"
+    src="https://streak-stats.demolab.com?user=pedrozenatte&theme=tokyonight&mode=weekly"
+  />
+</div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A0CFFF&height=120&section=footer"/>
