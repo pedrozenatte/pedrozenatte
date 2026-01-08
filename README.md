@@ -88,35 +88,23 @@ Tenho interesse nas áreas de computação de alto desempenho, ciência e base d
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-  align="left"
-  alt="GitHub Stats"
-  height="200"
-  style="padding-right:10px;"
-  src="https://github-readme-stats.vercel.app/api?username=pedrozenatte&show_icons=true&theme=tokyonight&locale=pt-br"
-/>
-
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrozenatte&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+<div align="center">
+  <img
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=pedrozenatte&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=86400"
   />
-</p>
-
-
-<br clear="left"/>
-<br/> <!-- Pular linha-->
-
-<p align="center">
-  <img 
-    alt="GitHub Streak Stats" 
-    height="200" 
-    src="https://github-readme-streak-stats.herokuapp.com?user=pedrozenatte&theme=tokyonight&mode=weekly" 
+  <img
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrozenatte&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"
   />
-</p>
+</div>
+
+<div align="center">
+  <img
+    height="200"
+    src="https://streak-stats.demolab.com?user=pedrozenatte&theme=tokyonight&mode=weekly"
+  />
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A0CFFF&height=120&section=footer"/>
 
