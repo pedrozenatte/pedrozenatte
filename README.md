@@ -7,9 +7,9 @@
 **`Estudante de Engenharia de Computação`**
 
 Olá! Meu nome é Pedro Guilherme de Barros Zenatte, tenho 23 anos e sou natural de São Carlos (SP). Concluí o ensino médio na ETEC, possuo formação técnica em Analista de Suporte Técnico e, atualmente, curso Engenharia de Computação na USP, campus de São Carlos. <br>
-Meu principal interesse está na área de Ciência de Dados e Engenharia de Dados, com foco em análise, organização, modelos preditivos e estruturação. Além disso, como base complementar, tenho afinidade em computação de alto desempenho (uso eficiente do hardware, aplicados como suporte ao processamento e manipulação de dados), e uma breve experiência com desenvolvimento Web e automações.
+Meu principal interesse está na área de Ciência de Dados e Engenharia de Dados, com foco em análise, organização, modelos preditivos e estruturação. Além disso, como base complementar, tenho afinidade com computação de alto desempenho, aplicada como suporte ao processamento e manipulação de dados, automações e uma breve experiência com desenvolvimento Web.
 
-Busco oportunidades de estágio na área de dados para aplicar meus conhecimentos em projetos reais, contribuir com equipes multidisciplinares e aprimorar minhas habilidades como pessoa e como engenheiro de computação.
+Atualmente, estou estagiando na área de P&D em robótica - QA e Automação de Testes, aplicando meus conhecimentos em projetos reais, contribuindo com equipes multidisciplinares e aprimorando minhas habilidades como pessoa e como engenheiro de computação. 
 
 
 
